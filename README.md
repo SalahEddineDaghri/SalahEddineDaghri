@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Salah%20Eddine&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Laravel&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello!&fontSize=50"/>
 </p>
 
 <p align="center">
@@ -17,9 +17,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Full Stack Developer with a strong focus on frontend development and modern web technologies.<br/>
-  Experienced in building responsive, scalable, and user-centric web applications using React, Laravel,
-  and modern UI frameworks.<br/><br/>
+  <strong>Full Stack Developer</strong> experienced in building modern, scalable, and user-centric web applications.<br/>
+  Skilled in frontend and backend development using React, Laravel, and modern web technologies.<br/><br/>
   🎯 Actively seeking professional opportunities to contribute to impactful projects and grow within a skilled development team.
 </p>
 
@@ -29,12 +28,16 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,nodejs,php,laravel,mysql,postgres,git,firebase" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salaheddine999&layout=compact&theme=dracula"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+  <img src="https://github.com/Salaheddine999/Salaheddine999/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
