@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello!&fontSize=50"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/salah-eddine-daghri-82257b2a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -28,16 +24,11 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,nodejs,php,laravel,mysql,postgres,git,firebase" />
 </p>
 
-<!-- <h2 align="center">📊 GitHub Stats</h2>
+
+
+ <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salaheddine999&layout=compact&theme=dracula"/>
-</p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg"/>
+</p> 
 
-<p align="center">
-  <img src="https://github.com/Salaheddine999/Salaheddine999/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p> -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
